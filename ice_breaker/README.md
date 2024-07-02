@@ -1,6 +1,7 @@
 # Ice Breaker
-
 My hands-on practice with LangChain based on the [LangChain- Develop LLM powered applications with LangChain](https://www.udemy.com/share/108yCa3@zzGfocqzUizLBULtuHos6zu5H7QPdUSuGwjetIQ66Xubw_RTGHu4C6O_cjn3WVeKcQ==/) Udemy course by Eden Marco.
+
+Ice Breaker is a simple LLM application that gets a full name as input and generates a short summary about the person based on the data fetched from the LinkedIn profile.
 
 ### Configuration
 Before running the code, you need to install the following dependencies:
